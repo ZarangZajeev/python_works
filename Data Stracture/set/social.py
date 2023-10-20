@@ -1,0 +1,11 @@
+all_users=["mammootty","mohanlal","prithvi","asif","dq","fahad0","nivin"]
+nivin_friends=["asif","dq","fahad"]
+dq_friends=["mammootty","asif","fahad","mohanlal"]
+all_set=set(all_users)
+nivin_friends_set=set(nivin_friends)
+dq_set=set(dq_friends)
+balance=all_set.difference(nivin_friends_set)
+balance.discard("nivin")
+print(balance)
+nivin_dq=nivin_friends_set.intersection(dq_set)
+print(nivin_dq)

@@ -1,0 +1,19 @@
+Class str               -        string methods
+    
+    (object.casefold())   -     def casefold()      - convert to lower case
+    
+    (object.capitalize()) -     def capitalize()    - convert firt letter to upper case
+    
+    (object.count()) -          def count()         - count a specified character
+
+    (object.startswith())  -    def startswith()    - check the string is starts with specifies letters
+
+    (object.endswith()) -       def endswith()       -  check the sring is ends with specifies letter
+
+    (object.isalpha())  -       def isalpha()       -   chech the string contains only alphabets
+
+    (object.isdigit())   -      def isdigit()       -  check the string contains only digits
+
+    (object.isalnum()) -        def isalnum()       -   check the string contains alphabets and numbers
+
+    (object.split()) -          def split()          -    split the string

@@ -1,0 +1,7 @@
+print() - display message in console
+
+input() - Read date from console
+
+type() - return data type of object
+
+range(star,end, step) - range(1,5) > 1,2,3,4    return sequence of numbers from start to end

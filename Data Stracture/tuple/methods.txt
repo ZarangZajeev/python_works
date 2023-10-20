@@ -1,0 +1,6 @@
+it is immutable
+------------
+
+1,      count   object.count(value)
+
+2,      index   object.index(value)
