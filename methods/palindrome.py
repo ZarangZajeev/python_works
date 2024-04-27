@@ -1,4 +1,4 @@
-s_word=("hello")
+s_word=("sos")
 count=len(s_word)
 p_str=""
 for i in range(count-1,-1,-1):
